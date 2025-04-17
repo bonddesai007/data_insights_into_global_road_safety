@@ -13,3 +13,5 @@ machine learning models, and predictive analytics in road safety research.
 
 This dataset is called secondary data as we are using to find some insights which can help to
 increase the surviving rate for the people.
+
+YOU CAN REFER TO DOCUMENTATION IF YOU WANT TO KNOW HOW ITS WORK.
